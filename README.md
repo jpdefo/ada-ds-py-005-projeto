@@ -1,3 +1,3 @@
-Analise e modelagem de um modelo de machine learning em um dataset de diabetes. O dataset pode ser encontrado no link a seguir:
+Análise estatística do dataset "World COVID-19 Data"
 
-https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset*
+https://www.kaggle.com/datasets/abhishek14398/world-covid19-data
